@@ -166,7 +166,7 @@ console.log(parseInt("xyz"));
 // ? NaN stands for "Not a Number" and is returned when a mathematical operation doesn't yield a valid number.
 // ? Also, to check whether a value is number or not we can use isNaN() function.
 
-console.log(isNaN("vinod"));
+console.log(isNaN("Pankaj"));
 console.log(parseInt("xyz"));
 console.log(parseInt("@#$"));
 
